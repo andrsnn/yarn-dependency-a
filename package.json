@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/andrsnn/yarn-dependency-c",
   "author": "Aidan Anderson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "2.4.1",
+    "gulp": "3.9.1"
+  }
 }
